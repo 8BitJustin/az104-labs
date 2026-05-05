@@ -958,9 +958,9 @@ export default function AZ104Lab() {
           <div style={{ margin: "20px 16px 0", padding: "12px", background: "#0a1020", borderRadius: 6, border: "1px solid #1a2040" }}>
             <div style={{ color: "#FFB703", fontSize: 10, marginBottom: 8, letterSpacing: 1, textTransform: "uppercase" }}>⚠️ Key Dates</div>
             <div style={{ color: "#6b7a99", fontSize: 11, lineHeight: 1.9 }}>
-              📅 May 23 — Cancel Entra P2<br />
-              📅 May 23 — Delete all resources<br />
-              📅 May 24 — Cancel Azure trial<br />
+              📅 May 20 — Cancel Entra P2<br />
+              📅 May 20 — Delete all resources<br />
+              📅 May 20 — Cancel Azure trial<br />
               💡 Est. total cost: ~$3–5
             </div>
           </div>
